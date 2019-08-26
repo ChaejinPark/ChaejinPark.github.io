@@ -6,6 +6,7 @@ menu:
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
+- {name: 'Post', url: 'pages/post.html'}
 
 #-------------------------------
 # SEO Section
@@ -49,6 +50,11 @@ contact: >
 
   You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
 
+post: >
+  # Hello 안녕하세요.
+
+  저에 대해 궁금하시다면 **[링크드인]**(https://www.linkedin.com/in/chaejin-park-245788191/) 으로 놀러오세요.
+
 #-------------------------------
 # Work Section
 
@@ -63,10 +69,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+#- {icon: 'twitter', link: '#'}
+#- {icon: 'instagram', link: '#'}
+#- {icon: 'github', link: '#'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/chaejin-park-245788191'}
+#- {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
